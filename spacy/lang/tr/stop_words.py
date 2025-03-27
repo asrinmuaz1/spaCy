@@ -28,13 +28,13 @@ bazısında
 bazısından
 bazısını
 bazısının
+başka
 başkası
 başkasına
 başkasında
 başkasından
 başkasını
 başkasının
-başka
 belki
 ben
 bende
@@ -129,14 +129,8 @@ burasını
 burasının
 burasında
 burasından
-böyle
-böylece
-böylecene
-böylelikle
-böylemesine
-böylesine
-büsbütün
 bütün
+büsbütün
 cuk
 cümlesi
 cümlesine
@@ -553,5 +547,6 @@ zarfında
 zaten
 zati
 zira
+
 """.split()
 )
